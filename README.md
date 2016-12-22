@@ -7,6 +7,7 @@ This project contains cubing documents conceived and created by Michael George -
 
 ## Directories / Folders
 
+* agile - Powerpoint slides for a work presentation about estimation
 * beginner - Powerpoint slides for teaching newbies to solve the cube
 * improver - Powerpoint slides for improving the "beginner" method
 
